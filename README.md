@@ -12,18 +12,18 @@ ________________________________________________________________________________
 
 Tools & Tech 
 
- > React, JavaScript, Tailwind
+> React, JavaScript, Tailwind
 
- > Learning Framer, and Gsap
+> Learning Framer, and Gsap
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 A Bit About Me 
 
- > Not many friend, so my laptop is my friend.
+> Not many friend, so my laptop is my friend. 
 
- > Dont drink coffee and chai for extra ordinary effiecincy, drink just for taste and mood.
+> Dont drink coffee and chai for extra ordinary effiecincy, drink just for taste and mood.
 
- > like to play games occasionally, mostly story mode with fight and actions.
+> like to play games occasionally, mostly story mode with fight and actions.
 
- > Dont like too much crowded space, my small room space is enough.
+> Dont like too much crowded space, my small room space is enough.
