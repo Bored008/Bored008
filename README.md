@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 Tools & Tech 
 
-> React, JavaScript, Tailwind
+> React, JavaScript, Tailwind , Figma
 
 > Learning Framer, and Gsap
 
