@@ -1,13 +1,14 @@
 <div align="center">
 
 # Hi, I'm Himanshu 👋
-### *Creative Frontend Developer & 3D Web Enthusiast*
+### *Creative Frontend Developer, 3D Web Enthusiast & Problem Solver*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F00511&center=true&vCenter=true&width=600&lines=Building+interactive+3D+web+experiences;Crafting+fluid+GSAP+%2B+R3F+animations;Obsessed+with+performance+%26+visual+fidelity;Everything+built+from+scratch.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F00511&center=true&vCenter=true&width=620&lines=Building+interactive+3D+web+experiences;Mastering+DSA+in+C%2B%2B+(Striver+A2Z);Crafting+fluid+GSAP+%2B+R3F+animations;Obsessed+with+performance+%26+visual+fidelity;Everything+built+from+scratch.)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="#-featured-projects"><b>Explore Projects</b></a> •
-  <a href="#-tech-stack"><b>Tech Stack</b></a> •
+  <a href="#-dsa--problem-solving-c"><b>DSA & Algorithms</b></a> •
+  <a href="#-tech-stack--creative-toolkit"><b>Tech Stack</b></a> •
   <a href="#-about-me"><b>About Me</b></a> •
   <a href="#-get-in-touch"><b>Connect</b></a>
 </p>
@@ -18,11 +19,12 @@
 
 ## 📌 Overview
 
-I am a frontend developer from India obsessed with crafting fluid, high-performance web experiences. I bridge the gap between **modern UI design**, **cinematic GSAP scroll animations**, and **interactive 3D graphics with Three.js / React Three Fiber**.
+I am a developer from India obsessed with crafting fluid, high-performance web experiences while mastering core computer science foundations. I bridge the gap between **modern UI design**, **cinematic GSAP animations**, **interactive 3D graphics (Three.js / R3F)**, and **rigorous problem solving in C++**.
 
 - 🎯 **Philosophy:** Everything built from scratch — zero copy-paste templates, zero generic boilerplate.
-- ⚡ **Focus:** Micro-interactions, 3D web graphics, scroll choreography, and sub-second load times.
-- 🛠️ **Current Obsession:** Optimizing 3D assets (Draco compression, custom Blender pivot setups) and GSAP `ScrollTrigger` timelines.
+- 🧠 **Algorithmic Discipline:** Rebuilding core DSA intuition in C++ using Striver's A2Z DSA Sheet.
+- ⚡ **Frontend Focus:** Micro-interactions, 3D web graphics, scroll choreography, and sub-second load times.
+- 🛠️ **Current Obsession:** Optimizing 3D assets (Draco compression, custom Blender pivot setups) and mastering arrays, recursion & algorithmic patterns.
 
 ---
 
@@ -30,7 +32,13 @@ I am a frontend developer from India obsessed with crafting fluid, high-performa
 
 <div align="center">
 
-### 💻 Core & Frameworks
+### 🧠 Problem Solving & Core CS
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++ STL](https://img.shields.io/badge/C++_STL-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Algorithms](https://img.shields.io/badge/Algorithms-4D96FF?style=for-the-badge&logo=codewars&logoColor=white)
+
+### 💻 Frontend & Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -101,6 +109,37 @@ I am a frontend developer from India obsessed with crafting fluid, high-performa
 
 ---
 
+## 🧠 DSA & Problem Solving (C++)
+
+I am dedicated to mastering algorithmic problem solving and low-level computational thinking, writing all solutions from scratch in modern **C++**. I am actively tracking my journey through the **[Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)**.
+
+> 📌 **Repository:** [`Bored008/DSA-StriverA2Z-`](https://github.com/Bored008/DSA-StriverA2Z-) — Daily code, dry runs, edge case handling, and asymptotic complexity analysis.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧱 Foundations & Patterns</h3>
+      <ul>
+        <li><b>Logic & Flow:</b> Geometric star and numeric patterns building iterative reasoning.</li>
+        <li><b>Basic Mathematics:</b> Euclidean GCD/HCF, Armstrong numbers, prime checks, digit extraction.</li>
+        <li><b>Recursion & Backtracking:</b> Base cases, functional vs parameterized recursion, array reversal.</li>
+        <li><b>Hashing Techniques:</b> Frequency counting, collisions, STL <code>std::unordered_map</code>.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Data Structures & Algorithms</h3>
+      <ul>
+        <li><b>Sorting Fundamentals:</b> Merge Sort, Quick Sort, Insertion, Selection, and Bubble Sort.</li>
+        <li><b>Arrays (Easy & Medium):</b> Two Pointers, Kadane's Algorithm, Next Permutation, Dutch National Flag (0/1/2 sort), Majority Element.</li>
+        <li><b>C++ Standard Template Library:</b> Deep mastery of vectors, pairs, iterators, priority queues, and custom comparators.</li>
+        <li><b>Complexity Focus:</b> Minimizing space/time complexity (\(O(N)\) over \(O(N^2)\)) and dry-running before coding.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## ☕ A Bit About Me
 
 ```yaml
@@ -111,6 +150,7 @@ persona:
   setup: Dual screen, mechanical keys, dark mode always on
   drink_of_choice: "Chai / Coffee (for flavor & mood, not artificial productivity)"
   social_battery: "Comfortable in my quiet room with code, music, and terminal tabs"
+  dsa_focus: "Rebuilding algorithmic mastery from scratch in C++ (Striver A2Z Sheet)"
   gaming: "Story-driven action & adventure games (deep combat & rich narratives)"
   motto: "Master the fundamentals, obsess over the details, build what lasts."
 ```
