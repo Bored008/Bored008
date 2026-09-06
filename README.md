@@ -121,8 +121,8 @@ persona:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bored008&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F00511&icon_color=F00511&text_color=c9d1d9" alt="Himanshu's GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bored008&theme=tokyonight&hide_border=true&background=0D1117&ring=F00511&fire=F00511&currStreakLabel=F00511" alt="Himanshu's GitHub Streak" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bored008&theme=radical" alt="Himanshu's GitHub Stats" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Bored008&theme=tokyonight&hide_border=true&background=0D1117&ring=F00511&fire=F00511&currStreakLabel=F00511" alt="Himanshu's GitHub Streak" width="48%" />
 
 </div>
 
@@ -132,8 +132,21 @@ persona:
 
 <div align="center">
 
-Whether you want to collaborate on a creative 3D web experience, discuss frontend architectures, or just talk tech:
+Whether you want to collaborate on a creative 3D web experience, discuss frontend architecture, or just talk tech:
 
-[![GitHub](https://img.shields.io/badge/GitHub-Bored008-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bored008)
+<p align="center">
+  <a href="https://linkedin.com/in/himanshuakabored" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Bored_OO8" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://t.me/BoRed_Xagain" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://github.com/Bored008" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 </div>
