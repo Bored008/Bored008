@@ -67,32 +67,31 @@ I am a developer from India obsessed with crafting fluid, high-performance web e
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/Bored008/EBAT">🛸 EBAT — Edge AI Drones</a></h3>
-      <p align="center"><b>Next.js • React Three Fiber • GSAP • Draco GLB • Tailwind CSS</b></p>
+      <h3 align="center"><a href="https://github.com/Bored008/TraceX">🌐 TraceX</a></h3>
+      <p align="center"><b>Next.js • React Flow • Tailwind CSS • TypeScript</b></p>
       <ul>
-        <li>Interactive 3D fixed-wing drone following mouse pointer angles in real-time.</li>
-        <li>Independently spinning propellers with custom Blender pivot point origins.</li>
-        <li>Aggressive 3D asset compression from <b>45MB down to 2.7MB</b> via Draco pipeline.</li>
-        <li>Bidirectional GSAP <code>ScrollTrigger</code> and <code>matchMedia</code> entrance choreographies.</li>
+        <li>Distributed root cause analyzer and SRE topology visualization tool.</li>
+        <li>Features live server dependency mapping and automated causal diagnosis.</li>
+        <li>Real-time telemetry flow monitoring for identifying infrastructure bottlenecks.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/Bored008/SadakSaathi">🛣️ SadakSaathi</a></h3>
-      <p align="center"><b>Civic Tech • Smart Road Safety • Next.js • React</b></p>
+      <h3 align="center"><a href="https://github.com/Bored008/EBAT">🛸 EBAT — Edge AI Drones</a></h3>
+      <p align="center"><b>Next.js • React Three Fiber • GSAP • Draco GLB</b></p>
       <ul>
-        <li>A platform for identifying, mapping, and reporting road hazards and safety hazards in real-time.</li>
-        <li>Clean, intuitive dashboard built for fast community-driven reporting.</li>
-        <li>Modular frontend architecture built from the ground up.</li>
+        <li>Interactive 3D fixed-wing drone following mouse pointer angles in real-time.</li>
+        <li>Aggressive 3D asset compression from <b>45MB down to 2.7MB</b> via Draco pipeline.</li>
+        <li>Bidirectional GSAP <code>ScrollTrigger</code> and <code>matchMedia</code> entrance choreographies.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/Bored008/ORBIT-SHIPPING-SERVICES">🚢 ORBIT Shipping Services</a></h3>
-      <p align="center"><b>Next.js • Tailwind CSS • UI/UX</b></p>
+      <h3 align="center"><a href="https://github.com/Bored008/SadakSaathi">🛣️ SadakSaathi</a></h3>
+      <p align="center"><b>Civic Tech • Smart Road Safety • Next.js</b></p>
       <ul>
-        <li>Modern, responsive interface engineered for global logistics and cargo tracking.</li>
-        <li>Minimalist, high-conversion design with smooth section transitions.</li>
+        <li>A platform for identifying, mapping, and reporting road hazards and safety hazards in real-time.</li>
+        <li>Clean, intuitive dashboard built for fast community-driven reporting.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
